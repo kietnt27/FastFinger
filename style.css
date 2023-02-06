@@ -1,0 +1,27 @@
+.div1{
+    text-align: center;
+    margin-top: 60px;
+    background-color: pink;
+}
+body{
+    background-color: pink;
+}
+
+.keyb{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 130px;
+    height: 300px;
+    background-color:black;
+}
+
+.btn{
+    text-align: center;
+    background-color: blue;
+    border: none;
+    font-size: 200%;
+    width: 50px;
+    height: 50px;
+    margin-top: 30px;
+}
